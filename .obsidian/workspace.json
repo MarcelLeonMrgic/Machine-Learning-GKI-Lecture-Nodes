@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Supervised Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Supervised Learning"
+            }
+          },
+          {
+            "id": "3da92084d7f4b170",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -31,10 +41,14 @@
             "id": "1d667568a1204fcf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Perceptron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perceptron"
             }
           }
         ]
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Perceptron"
             }
           },
           {
@@ -129,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Perceptron"
             }
           },
           {
@@ -172,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Perceptron.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Perceptron"
             }
           }
         ]
@@ -199,8 +213,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "02be94b73b12df43",
+  "active": "1d667568a1204fcf",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Screenshot 2025-12-22 at 23.33.07.png",
+    "Supervised Learning.md",
+    "Screenshot 2025-12-22 at 23.26.20.png",
+    "Perceptron.md",
+    "Maschinelles Lernen.md",
+    "Unsupervised Learning.md",
+    "Reinforcement Learning.md",
+    "Screenshot 2025-12-22 at 22.40.33.png",
+    "Screenshot 2025-12-03 at 15.11.36.png"
   ]
 }
