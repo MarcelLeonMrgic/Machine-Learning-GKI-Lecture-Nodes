@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "ec6e19038d06f012",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       },
@@ -108,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbf563601d53fb40",
@@ -215,10 +226,12 @@
   },
   "active": "1d667568a1204fcf",
   "lastOpenFiles": [
-    "Screenshot 2025-12-22 at 23.33.07.png",
     "Supervised Learning.md",
-    "Screenshot 2025-12-22 at 23.26.20.png",
     "Perceptron.md",
+    "Screenshot 2025-12-23 at 20.09.29.png",
+    "Screenshot 2025-12-23 at 19.46.21.png",
+    "Screenshot 2025-12-22 at 23.33.07.png",
+    "Screenshot 2025-12-22 at 23.26.20.png",
     "Maschinelles Lernen.md",
     "Unsupervised Learning.md",
     "Reinforcement Learning.md",
