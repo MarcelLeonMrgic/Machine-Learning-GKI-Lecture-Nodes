@@ -1,0 +1,1 @@
+Stanford # Lecture 9: Career Advice in AI: https://www.youtube.com/watch?v=AuZoDsNmG_s

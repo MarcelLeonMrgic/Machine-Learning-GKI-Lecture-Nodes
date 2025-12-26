@@ -4,46 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f68e5c3dbe7726fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02be94b73b12df43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supervised Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supervised Learning"
-            }
-          },
-          {
-            "id": "3da92084d7f4b170",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ec6e19038d06f012",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "00baf504055bc3b1",
         "type": "tabs",
         "children": [
@@ -53,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perceptron.md",
+                "file": "Maschinelles Lernen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perceptron"
+              "title": "Maschinelles Lernen"
+            }
+          },
+          {
+            "id": "9427115ae578a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool AI Videos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cool AI Videos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbf563601d53fb40",
@@ -135,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perceptron.md",
+                "file": "Cool AI Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perceptron"
+              "title": "Backlinks for Cool AI Videos"
             }
           },
           {
@@ -154,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perceptron.md",
+                "file": "Cool AI Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Perceptron"
+              "title": "Outgoing links from Cool AI Videos"
             }
           },
           {
@@ -197,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perceptron.md",
+                "file": "Cool AI Videos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Perceptron"
+              "title": "Outline of Cool AI Videos"
             }
           }
         ]
@@ -224,15 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d667568a1204fcf",
+  "active": "9427115ae578a0ff",
   "lastOpenFiles": [
-    "Supervised Learning.md",
+    "Cool AI Videos.md",
+    "Maschinelles Lernen.md",
     "Perceptron.md",
+    "Screenshot 2025-12-24 at 03.19.53.png",
+    "Supervised Learning.md",
     "Screenshot 2025-12-23 at 20.09.29.png",
     "Screenshot 2025-12-23 at 19.46.21.png",
     "Screenshot 2025-12-22 at 23.33.07.png",
     "Screenshot 2025-12-22 at 23.26.20.png",
-    "Maschinelles Lernen.md",
     "Unsupervised Learning.md",
     "Reinforcement Learning.md",
     "Screenshot 2025-12-22 at 22.40.33.png",
